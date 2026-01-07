@@ -1,4 +1,4 @@
-# Canada.ca Life Events
+# [Project name]
 
 ## Overview
 
